@@ -1,6 +1,6 @@
 # Hindware 3D Bathroom Visualizer
 
-An immersive 3D bathroom product visualization tool built during my internship as a **Frontend Developer**. Users can explore 5 uniquely themed bath spaces, customize products in real-time within a 3D environment, and browse product catalogs.
+An immersive 3D bathroom product visualization tool built as a **Frontend Developer**. Users can explore 5 uniquely themed bath spaces, customize products in real-time within a 3D environment, and browse product catalogs.
 
 ## ✨ Features
 
@@ -71,6 +71,10 @@ Then open [http://localhost:8080](http://localhost:8080) in your browser.
 ├── json/                   # Additional product categories
 └── README.md
 ```
+
+## Live Preview
+
+```https://sohamgoswami07.github.io/Hindware-Frontend/```
 
 ## 📝 My Role
 
