@@ -2,8 +2,6 @@
 
 An immersive 3D bathroom product visualization tool built during my internship as a **Frontend Developer**. Users can explore 5 uniquely themed bath spaces, customize products in real-time within a 3D environment, and browse product catalogs.
 
-> **Portfolio Demo**: This is a cleaned-up version for portfolio purposes. Backend APIs have been replaced with demo fallbacks — all frontend features work independently.
-
 ## ✨ Features
 
 - **5 Themed Bathroom Rooms** — Lush Green, Contemporary, Neo-Classical, Palm Blossom, Modern Glam
@@ -87,6 +85,5 @@ As a **Frontend Developer Intern**, I was responsible for:
 
 ## 📄 License
 
-This project was developed during an internship. All product data, 3D models, and brand assets belong to their respective owners. This repository is for portfolio demonstration purposes only.
-# Hindware-Frontend
-# Hindware-Frontend
+All product data, 3D models, and brand assets belong to their respective owners. This repository is for portfolio demonstration purposes only.
+
